@@ -51,6 +51,12 @@ Este projeto é um site interativo para sorteio de amigos, ideal para eventos co
 
 ---
 
+📝 Minha experiência com o desafio
+
+Tive um pouco de dificuldade em relembrar algumas funções do JavaScript, como .value e .push. A lógica do projeto foi compreensível, mas colocar tudo em prática levou um tempo. Demorei aproximadamente 2 a 3 horas para finalizar a parte do JavaScript, ajustando detalhes e garantindo que tudo funcionasse corretamente. No final, foi um ótimo exercício para reforçar meus conhecimentos e melhorar minha prática.
+
+---
+
 ## 👨‍💻 Autor
 Desenvolvido por **Luan Alves (https://github.com/devAlvesLuan)**.
 
